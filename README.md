@@ -16,4 +16,4 @@ In this project;
 * Foursquare API
 * Map Visualazation 
 
-![image](destinations-moscow-banner.jpg)
+![image](Photos/destinations-moscow-banner.jpg)
