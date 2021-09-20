@@ -9,3 +9,11 @@ They need a gym in the neighborhood, some nice cafe, bars and restaurants.
 Now they are living in Moscow Khamovniki and it is a very good district. We are searching for district in Berlin that will have same venues on the same distances from the center of the district.
 
 Please check the presentation in the repository for more details.
+
+In this project;
+* Machine Learnign K-Means 
+* Pandas 
+* Foursquare API
+* Map Visualazation 
+
+![image](destinations-moscow-banner.jpg)
